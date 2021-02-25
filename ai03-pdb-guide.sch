@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ai03-pdb-guide-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -575,5 +576,13 @@ COL1
 Text GLabel 5750 2500 0    50   Input ~ 0
 ROW0
 Text GLabel 5800 3150 0    50   Input ~ 0
+ROW1
+Text GLabel 4500 2250 2    50   Input ~ 0
+COL0
+Text GLabel 4500 2150 2    50   Input ~ 0
+COL1
+Text GLabel 4500 3650 2    50   Input ~ 0
+ROW0
+Text GLabel 4500 2350 2    50   Input ~ 0
 ROW1
 $EndSCHEMATC
